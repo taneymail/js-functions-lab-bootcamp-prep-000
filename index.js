@@ -8,3 +8,8 @@ function happyHolidaysTo(name) {
   name = 'Tanya';
   return `Happy holidays, ${name}!`
 }
+
+function happyHolidaysTo(name) {
+  name = 'Family';
+  return `Happy holidays, ${name}!`
+}
