@@ -3,6 +3,5 @@
 var happyHolidays, happyHolidaysTo
 
 function HappyHolidays(string) {
-   = 'Happy holidays!';
-  return one;
+  return string;
 }
