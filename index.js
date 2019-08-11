@@ -2,6 +2,6 @@
 
 var happyHolidays, happyHolidaysTo
 
-function HappyHolidays(string) {
+function HappyHolidays() {
   return string;
 }
